@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1770948477439,
+    "titulo": "Node avanzado",
+    "descripcion": "Repasar middleware"
+  },
+  {
+    "id": 1771190939727,
+    "titulo": "Estudiar Node",
+    "descripcion": "Repasar JWT y middleware"
+  }
+]
