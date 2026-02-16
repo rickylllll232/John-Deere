@@ -36,3 +36,9 @@ El servidor iniciará en: http://localhost:3000
 POST /api/user/register - Registro de nuevos usuarios.
 
 POST /api/productos - Registro de nuevos productos John Deere.
+
+
+MONGODB
+user: Admin
+password: mongoDB123
+
