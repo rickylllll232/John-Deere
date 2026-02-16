@@ -37,3 +37,5 @@ app.listen(PORT, () => {
 });
 
 module.exports = app; // Importante para Vercel y Jest
+
+// Cambio para forzar deploy en Vercel
